@@ -14,6 +14,7 @@ This repository serves as a personal knowledge base for documenting challenge so
 * PortSwigger Web Security Academy
 * CyberQuest
 * Other CTF competitions
+# Trebuda
 
 ## Categories
 
